@@ -32,6 +32,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nshakib)
 
+- :mailbox:How to reach me **nshakib.se@gmail.com** [Preferrable]
+
+- :mailbox:Urgent Contact **+447424411769** [Not Preferrable in Normal Case]
+
+- 🔥 **I can lead I can learn stuffs very quickly & implement on demand !**
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
