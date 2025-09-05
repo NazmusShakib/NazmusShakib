@@ -24,11 +24,11 @@
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Passionate about building scalable web applications and AI-powered cognitive applications
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Actively contributing to technical content, research publications and reading scientific papers.
 
-- :zap: In my free time, I solve problems on kaggle, leetcode and read tech articles.
+- :zap: In my free time, I browse social sites, check out Kaggle and LeetCode challenges and enjoy my favorite songs.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nshakib)
 
