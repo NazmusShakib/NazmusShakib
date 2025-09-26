@@ -36,7 +36,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:Urgent Contact **+447424411769** [Not Preferrable in Normal Case]
 
-- 🔥 **I can lead I can learn stuffs very quickly & implement on demand !**
+- 🔥 **I can lead and learn stuffs very quickly & implement on demand !** <img src="https://media.tenor.com/8VuZc8I8f7EAAAAi/oiia-cat.gif" width="30" /> 
 
 ---
 
