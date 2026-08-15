@@ -34,7 +34,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me **nshakib.se@gmail.com** [Preferrable]
 
-- :mailbox:Urgent Contact **+447424411769** [Not Preferrable in Normal Case]
+- :mailbox:Urgent Contact **+44 7424 411769** [Not Preferrable in Normal Case]
 
 - 🔥 **Love to learn stuffs & implement on demand !** <img src="https://media.tenor.com/8VuZc8I8f7EAAAAi/oiia-cat.gif" width="30" /> 
 
