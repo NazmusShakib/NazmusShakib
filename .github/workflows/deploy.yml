@@ -19,13 +19,14 @@ jobs:
           printf '%s\n' "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
           chmod 600 ~/.ssh/id_ed25519
 
-          ssh-keyscan -H "${{ secrets.SSH_HOST }}" >> ~/.ssh/known_hosts
+          ssh-keyscan -p "${{ secrets.SSH_PORT }}" -H "${{ secrets.SSH_HOST }}" >> ~/.ssh/known_hosts
           chmod 644 ~/.ssh/known_hosts
 
       - name: Test SSH connection
         run: |
           ssh -i ~/.ssh/id_ed25519 \
             -o StrictHostKeyChecking=yes \
+            -p "${{ secrets.SSH_PORT }}" \
             "${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}" \
             "whoami"
 
@@ -33,6 +34,7 @@ jobs:
         run: |
           ssh -i ~/.ssh/id_ed25519 \
             -o StrictHostKeyChecking=yes \
+            -p "${{ secrets.SSH_PORT }}" \
             "${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}" << 'EOF'
               set -e
               cd /home/deploy/nazmusshakib
